@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lilierd, a French Dude !
 - 👀 I’m interested in video games, music and programming.
 - Do you know Hephaestus ? https://github.com/LogikSystems/hephaestus-framework
+- I've got basic knowledge of Unity.
 
 <!---
 Lilierd/Lilierd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
