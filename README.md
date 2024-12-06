@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lilierd, a French Dude !
 - 👀 I’m interested in video games, music and programming.
-- Do you know Hephaestus ?
-- LogikSystems is the team working on Hephaestus Discord bot : https://github.com/LogikSystems/
+- Do you know Volund ?
+- VolundCorp is the team working on Volund Discord bot : https://github.com/VolundCorp/
 - I've got basic knowledge of Unity.
 
 <!---
